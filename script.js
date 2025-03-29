@@ -1,3 +1,7 @@
+/**
+ * Purpose: This script handles the interactive features of the Leaf Shape Explorer such as audio.
+ * Author: Saeed Haweeleh
+ */
 document.addEventListener('DOMContentLoaded', () => {
     const clickSound = document.getElementById('clickSound');
     const backgroundMusic = document.getElementById('backgroundMusic');
